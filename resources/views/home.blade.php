@@ -2,7 +2,7 @@
 @section('page-content')
 <section class="wrapper bg-gray">
             <div class="container pt-12 pt-md-16 text-center">
-                <div class="row">
+                <div class="row somelyhing">
                     <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
 
                         <h1 class="display-1 fs-58 mb-7">Find Jobs that fit your Requirements</h1>
