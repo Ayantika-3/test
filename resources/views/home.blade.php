@@ -1,6 +1,6 @@
 @extends('layouts.master')
 @section('page-content')
-<section class="wrapper bg-gray">
+<section class="wrapper bg-gray white">
             <div class="container pt-12 pt-md-16 text-center">
                 <div class="row something">
                     <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
